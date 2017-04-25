@@ -2,6 +2,7 @@ body {
 margin: 0;
 border: 0;
 padding: 0;
+background-color: gainsboro;
 }
 header {
 margin: 0;
@@ -236,7 +237,10 @@ margin: 0;
 border: 0;
 padding: 0;
 border-top: 1px solid gray;
+position: absolute;
+bottom: 0;
 display: block;
+width: 100%;
 background-color: aqua;
 color: black;
 }
@@ -276,4 +280,3 @@ padding: 0;
 margin-top: 7px;
 margin-bottom: 7px;
 }
-
