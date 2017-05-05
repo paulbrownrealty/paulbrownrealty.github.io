@@ -2,17 +2,6 @@ html, body {
 margin: 0;
 border: 0;
 padding: 0;
-position: relative;
-height: 100%;
-background-color: gainsboro;
-}
-body div.body {
-margin: 0;
-border: 0;
-padding: 0;
-padding-bottom: 105px;
-position: relative;
-min-height: 100%;
 }
 header {
 margin: 0;
@@ -276,8 +265,6 @@ margin: 0;
 border: 0;
 padding: 0;
 border-top: 5px solid lime;
-position: absolute;
-bottom: 0;
 display: block;
 width: 100%;
 background-color: white;
@@ -318,8 +305,5 @@ border: 0;
 padding: 0;
 margin-top: 7px;
 margin-bottom: 7px;
-}
-footer {
-position: relative;
 }
 }
