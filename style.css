@@ -212,3 +212,19 @@ width: 100%;
 }
 }
 
+@media all and (-ms-high-contrast: none), (-ms-high-contrast: active) {
+img[src*=".svg"] {
+height: 100%;
+width: 100%;
+}
+header li.name {
+width: 415px;
+}
+header li.homes {
+width: 320px;
+}
+footer li.association {
+width: 130px;
+}
+}
+
